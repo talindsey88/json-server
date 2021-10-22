@@ -1,0 +1,412 @@
+{
+  "destinations":[
+    {
+      "id": 0,
+      "image": "images/sbrafting/img_deso_sun.jpg",
+      "name": "Deso Gray",
+      "featured": false,
+      "description":"Desolation Canyon became famous after John Wesley Powell’s historic descent of the Green and Colorado Rivers in 1869 and 1871. This nearly untouched canyon is deeper in some places than the Grand Canyon at the Bright Angel Trail, featuring scenic red rock canyon walls that tower overhead. The canyon is also family friendly, with more than 50 Class II-III rapids which can be navigated via oar raft, inflatable kayak, or paddle raft. Off the water, you’ll explore Native American ruins, abandoned homesteads, and maybe even the hideout of the infamous Butch Cassidy and the Sundance Kid."
+  },
+  {
+      "id": 1,
+      "image": "images/sbrafting/img_gates_up.jpg",
+      "name": "Gates of Lodore",
+      "featured": false,
+      "description":"Set aside as an American treasure in 1915 under the National Park Service, Dinosaur National Monument is an open-air archive of ancient Native American sites and far-out fossils unearthed by wind, water and time.  Within the monument, our Green River rafting trip winds its way through three distinct canyons: Lodore, Whirlpool and Split Mountain all of which contain geological curiosities and rich human history. Lodore was the first major canyon encountered by John Wesley Powell and his men on their 1869 expedition. At its start, the river twists through a catacomb of scarlet slot canyons, yawning valleys and lush ledges of emerald evergreen and brush. Exploration is the mission of the day as the Green promises numerous side hikes, relaxing nights on the beach and moderate whitewater perfect for young families and laid-back vacationers."
+  },
+  {
+      "id": 2,
+      "image": "images/sbrafting/img_grand_deerfalls.jpg",
+      "name": "Grand Canyon",
+      "featured": true,
+      "description":"Covering 225 river miles, this classic Grand Canyon rafting trip on the Colorado River offers all the scenery, side canyons and whitewater excitement of our full canyon trip.  Experience the glories of Marble Canyon, the mysteries of the Inner Gorge, terrific side hikes and Native American ruins, crystalline creeks and waterfalls, cactus gardens and whitewater galore. Grand Canyon whitewater rapids cover the full spectrum of foaming ripples to the notorious churning roar of Lava Falls. We run it all and still have plenty of time to hike and explore the numerous side canyons, which crisscross this magnificent region, each having its own unique attractions, just waiting to be discovered. Along the way, we may encounter canyon wildlife including bighorn sheep, deer, coyote and a variety of birds. Our last night is spent camping in the shattered Hurricane fault zone before we head to Diamond Creek for the conclusion of our Grand Canyon adventure."
+  },
+  {
+      "id": 3,
+      "image": "images/sbrafting/img_yampa_over.jpg",
+      "name": "Yampa",
+      "featured": false,
+      "description":"The Yampa River is the one major tributary in the Colorado River system that runs wild and free, straight to the heart of Dinosaur National Monument. For three months a year (May-July), the Yampa River flows free with fresh, surging run-off from miles above—waters originating from the melting snows and glaciers of the world-famous Colorado Rockies. Easily manageable Class III and IV whitewater rafting flows carry paddlers through colorful canyons of red, yellow and orange and on into Dinosaur National Monument. A billion years are captured in these canyon walls, along with the remnants of various life forms that existed long before humans. Our pathway through time showcases some of the oldest exposed rocks in the world, ones that have been folded, lifted and split by eons of geological forces."
+  }
+  ],
+  "reviews": [
+    {
+      "id": 0,
+      "destinationId": 0,
+      "rating": 5,
+      "text": "Talk about Desolation, Didn't see a soul for the entire trip!",
+      "author": "John Powell",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 1,
+      "destinationId": 0,
+      "rating": 5,
+      "text": "Great trip for the whole family!",
+      "author": "Kole Hill",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 2,
+      "destinationId": 1,
+      "rating": 5,
+      "text": "Gates of Lodore was a trip of a life time!",
+      "author": "Taylor Lindsey",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 3,
+      "destinationId": 1,
+      "rating": 5,
+      "text": "Echo park was a bucket list for me and it didn't disappoint!",
+      "author": "Tim Waterman",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 4,
+      "destinationId": 2,
+      "rating": 5,
+      "text": "Words can not describe this trip and this place!",
+      "author": "Phil and Lindsey Howard",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 5,
+      "destinationId": 2,
+      "rating": 5,
+      "text": "As the saying goes you're always above Lava!",
+      "author": "Walter",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 6,
+      "destinationId": 3,
+      "rating": 5,
+      "text": "Yampa was as good as it gets this spring!",
+      "author": "Andy Billmeyer",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 7,
+      "destinationId": 3,
+      "rating": 5,
+      "text": "Warmsprings rapid had a boat eating hole at Maytag, great rapid and amazing trip all around!",
+      "author": "TL",
+      "date": "2018-10-25T16:30Z"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": 0,
+      "name": "NRS",
+      "image": "images/sbrafting/img_NRS.png",
+      "featured": false,
+      "description": " Your one Stop Shop for all your Rafting needs"
+    },
+    {
+      "id": 1,
+      "name": "Watershed",
+      "image": "images/sbrafting/img_watershed.jpg",
+      "featured": false,
+      "description": "Hands down the best dry bags on the market!"
+    },
+    {
+      "id": 2,
+      "name": "Down River Equipment",
+      "image": "images/sbrafting/img_downriver.jpg",
+      "featured": false,
+      "description": "Quality rafting equipment made in Colorado, Usa"
+    },
+    {
+      "id": 3,
+      "name": "Pyranha Kayaks",
+      "image": "images/sbrafting/img_pyranha.jpg",
+      "featured": true,
+      "description": "Making the highest quality kayaks in the world since 1971"
+    }
+  ],
+  "adventures": [
+    {
+      "id": 0,
+      "name": "Steamboat Powdercats",
+      "image": "images/sbrafting/img_powder.jpg",
+      "featured": true,
+      "description": "For your winter adventure check out Steamboat Powdercats for private and mixed, fully catered catsking on Buffalo Pass in Northwest Colorado. They provide guided powder skiing assisted by the cat! "
+    }
+  ],
+  "campsites": [
+    {
+      "id": 0,
+      "name": "React Lake Campground",
+      "image": "images/react-lake.jpg",
+      "elevation": 1233,
+      "featured": false,
+      "description": "Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers."
+    },
+    {
+      "id": 1,
+      "name": "Chrome River Campground",
+      "image": "images/chrome-river.jpg",
+      "elevation": 877,
+      "featured": false,
+      "description": "Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River."
+    },
+    {
+      "id": 2,
+      "name": "Breadcrumb Trail Campground",
+      "image": "images/breadcrumb-trail.jpg",
+      "elevation": 2901,
+      "featured": false,
+      "description": "Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground."
+    },
+    {
+      "id": 3,
+      "name": "Redux Woods Campground",
+      "image": "images/redux-woods.jpg",
+      "elevation": 42,
+      "featured": true,
+      "description": "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 1,
+      "campsiteId": 0,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 2,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 3,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 4,
+      "campsiteId": 0,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 5,
+      "campsiteId": 1,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 6,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 7,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 8,
+      "campsiteId": 1,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 9,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 10,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 11,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 12,
+      "campsiteId": 2,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 13,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 14,
+      "campsiteId": 2,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 15,
+      "campsiteId": 3,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 16,
+      "campsiteId": 3,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 17,
+      "campsiteId": 3,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 18,
+      "campsiteId": 3,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 19,
+      "campsiteId": 3,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "campsiteId": 0,
+      "rating": "4",
+      "author": "Thomas",
+      "text": "jhxcJDCVCLclj",
+      "date": "2021-09-15T15:37:23.829Z",
+      "id": 20
+    }
+  ],
+  "partners": [
+    {
+      "id": 0,
+      "name": "Bootstrap Outfitters",
+      "image": "images/bootstrap-logo.png",
+      "featured": false,
+      "description": "Bootstrap Outfitters supplies you with the gear you need at prices you can't beat."
+    },
+    {
+      "id": 1,
+      "name": "Git Out Expeditions",
+      "image": "images/git-logo.png",
+      "featured": false,
+      "description": "Join Git Out Expeditions to explore new horizons with a group of other adventurers!"
+    },
+    {
+      "id": 2,
+      "name": "Mongo Fly Shop",
+      "image": "images/mongo-logo.png",
+      "featured": false,
+      "description": "Need a new fishing pole, a tacklebox, or flies of all kinds? Stop by Mongo Fly Shop."
+    },
+    {
+      "id": 3,
+      "name": "Node Outdoor Apparel",
+      "image": "images/node-logo.png",
+      "featured": true,
+      "description": "From polar fleeces to swimsuits, hiking boots to waders, a visit to Node will be sure to get you covered."
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Mountain Adventure",
+      "image": "images/breadcrumb-trail.jpg",
+      "featured": true,
+      "description": "Book a 5-day mountain trek with a seasoned outdoor guide! Fly fishing equipment and lessons provided."
+    }
+  ],
+  "feedback": [
+    {
+      "id": 0,
+      "firstname": "Test",
+      "lastname": "Test",
+      "phoneNum": "12345",
+      "email": "test@test.com",
+      "agree": true,
+      "contactType": "Email",
+      "feedback": "test"
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Lindseu",
+      "phoneNum": "6564619566",
+      "email": "tomas4co@yahoo.com",
+      "agree": true,
+      "contactType": "Phone",
+      "feedback": "test",
+      "id": 1
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Lindseu",
+      "phoneNum": "6564619566",
+      "email": "tomas4co@yahoo.com",
+      "agree": true,
+      "contactType": "Phone",
+      "feedback": "test",
+      "id": 2
+    }
+  ]
+}
